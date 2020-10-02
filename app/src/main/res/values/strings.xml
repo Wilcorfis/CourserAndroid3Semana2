@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormularioEditext</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="telefono">Telefono</string>
+    <string name="enviar">Enviar</string>
+    <string name="correo">Correo</string>
+    <string name="nombre_completo">Nombre Completo</string>
+</resources>
